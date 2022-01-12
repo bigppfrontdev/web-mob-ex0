@@ -1,0 +1,21 @@
+a:hover {
+    background-color: pink;
+  }
+  table{
+    background-color: aqua; 
+  }
+  ul{
+    color: brown;
+  }
+  ul #lis{
+    color: blue;
+  }
+  .uu {
+    color: blue ; 
+  }
+  img{
+     height: 500px;
+     position: relative;
+     top: 80%;
+     left: 50%;
+  }
